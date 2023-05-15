@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakthivel</h1>
-<h3 align="center">A passionate frontend, AI/ML develeoper</h3>
+<h3 align="center">A passionate frontend, AI/ML developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardy07&label=Profile%20views&color=0e75b6&style=flat" alt="hardy07" /> </p>
 
