@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardy07&show_icons=true&locale=en" alt="hardy07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardy07&" alt="hardy07" /></p>
+
+[![An image of @hardy07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hardy07)](https://holopin.io/@hardy07)
