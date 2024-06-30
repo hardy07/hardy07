@@ -29,3 +29,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardy07&" alt="hardy07" /></p>
 
 [![An image of @hardy07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hardy07)](https://holopin.io/@hardy07)
+
+<img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
