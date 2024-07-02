@@ -17,7 +17,7 @@
 
 <p align="left">
 <a href="https://dev.to/sakthivel07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sakthivel07" height="30" width="40" /></a>
-<a href="https://twitter.com/sakthiveloffcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakthiveloffcl" height="30" width="40" /></a>
+<a href="https://twitter.com/sakt2011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakthiveloffcl" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sakthiveloffcl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakthiveloffcl/" height="30" width="40" /></a>
 <a href="https://sakthivel07.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sakthivel07" height="30" width="40" /></a>
 </p>
