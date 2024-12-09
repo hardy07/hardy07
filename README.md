@@ -1,5 +1,5 @@
 ## Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="23px" height="23px"> I'm Sakthivel
-- A full stack developer, AI/ML developer
+- Machine Learning, Full Stack Development
 - Explore my projects in Python and React.js!
 <img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardy07&label=Profile%20views&color=0e75b6&style=flat" alt="hardy07" /> </p>
