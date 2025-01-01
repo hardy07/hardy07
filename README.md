@@ -9,7 +9,7 @@
 -->
 
 
-- 📝 I regularly write articles on [https://sakthivel07.hashnode.dev/](https://sakthivel07.hashnode.dev/)
+- 📝 Read my articles on [https://hardy07.github.io](https://hardy07.github.io/)
 
 - 📫 How to reach me **sakthiveloffcl@gmail.com**
 
